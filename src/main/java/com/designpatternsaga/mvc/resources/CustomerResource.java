@@ -1,8 +1,8 @@
-package com.javachallengers.encapsulation.realworldchallenger.resources;
+package com.designpatternsaga.mvc.resources;
 
-import com.javachallengers.encapsulation.realworldchallenger.dto.CustomerDTO;
-import com.javachallengers.encapsulation.realworldchallenger.model.Customer;
-import com.javachallengers.encapsulation.realworldchallenger.services.CustomerService;
+import com.designpatternsaga.mvc.dto.CustomerDTO;
+import com.designpatternsaga.mvc.model.Customer;
+import com.designpatternsaga.mvc.services.CustomerService;
 
 public class CustomerResource {
 

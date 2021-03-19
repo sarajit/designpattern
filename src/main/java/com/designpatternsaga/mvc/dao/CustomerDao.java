@@ -1,10 +1,11 @@
-package com.javachallengers.encapsulation.realworldchallenger.dao;
+package com.designpatternsaga.mvc.dao;
 
-import com.javachallengers.encapsulation.realworldchallenger.model.Customer;
 
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.util.Date;
+
+import com.designpatternsaga.mvc.model.Customer;
 
 public class CustomerDao {
 

@@ -1,4 +1,4 @@
-package com.javachallengers.encapsulation.realworldchallenger.model;
+package com.designpatternsaga.mvc.model;
 
 import java.util.Date;
 

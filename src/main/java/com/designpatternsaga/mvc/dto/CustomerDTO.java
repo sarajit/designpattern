@@ -1,8 +1,9 @@
-package com.javachallengers.encapsulation.realworldchallenger.dto;
+package com.designpatternsaga.mvc.dto;
 
-import com.javachallengers.encapsulation.realworldchallenger.model.Customer;
 
 import java.util.Date;
+
+import com.designpatternsaga.mvc.model.Customer;
 
 public class CustomerDTO {
 

@@ -1,7 +1,7 @@
-package com.javachallengers.encapsulation.realworldchallenger.services;
+package com.designpatternsaga.mvc.services;
 
-import com.javachallengers.encapsulation.realworldchallenger.dao.CustomerDao;
-import com.javachallengers.encapsulation.realworldchallenger.model.Customer;
+import com.designpatternsaga.mvc.dao.CustomerDao;
+import com.designpatternsaga.mvc.model.Customer;
 
 public class CustomerService {
 

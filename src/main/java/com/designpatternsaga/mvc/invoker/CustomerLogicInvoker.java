@@ -1,9 +1,9 @@
-package com.javachallengers.encapsulation.realworldchallenger.invoker;
+package com.designpatternsaga.mvc.invoker;
 
-import com.javachallengers.encapsulation.realworldchallenger.dao.CustomerDao;
-import com.javachallengers.encapsulation.realworldchallenger.dto.CustomerDTO;
-import com.javachallengers.encapsulation.realworldchallenger.resources.CustomerResource;
-import com.javachallengers.encapsulation.realworldchallenger.services.CustomerService;
+import com.designpatternsaga.mvc.dao.CustomerDao;
+import com.designpatternsaga.mvc.dto.CustomerDTO;
+import com.designpatternsaga.mvc.resources.CustomerResource;
+import com.designpatternsaga.mvc.services.CustomerService;
 
 public class CustomerLogicInvoker {
 
